@@ -9,7 +9,7 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-namespace codesinner\pt5testing\command;
+namespace codesinner\tp5testing\command;
 
 use PHPUnit\TextUI\Command as TextUICommand;
 use PHPUnit\Util\Blacklist;

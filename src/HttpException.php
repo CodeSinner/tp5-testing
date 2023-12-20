@@ -1,6 +1,6 @@
 <?php
 
-namespace codesinner\pt5testing;
+namespace codesinner\tp5testing;
 
 use PHPUnit\Framework\ExpectationFailedException;
 

@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
-namespace codesinner\pt5testing;
+namespace codesinner\tp5testing;
 
 use PHPUnit\Framework\Assert as PHPUnit;
 use think\facade\Session;
