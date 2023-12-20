@@ -11,8 +11,8 @@
 namespace codesinner\tp5testing;
 
 use PHPUnit\Framework\Assert as PHPUnit;
-use think\facade\Session;
-use think\facade\Url;
+use think\Session;
+use think\Url;
 use think\response\View;
 
 trait AssertionsTrait

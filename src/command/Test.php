@@ -16,8 +16,8 @@ use PHPUnit\Util\Blacklist;
 use think\console\Command;
 use think\console\Input;
 use think\console\Output;
-use think\facade\Env;
-use think\facade\Session;
+use think\Env;
+use think\Session;
 use think\Loader;
 
 class Test extends Command

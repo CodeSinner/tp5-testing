@@ -13,11 +13,11 @@ namespace codesinner\tp5testing;
 use think\Error;
 use think\Exception;
 use think\exception\ThrowableError;
-use think\facade\App;
-use think\facade\Cookie;
-use think\facade\Request;
-use think\facade\Response;
-use think\facade\Route;
+use think\App;
+use think\Cookie;
+use think\Request;
+use think\Response;
+use think\Route;
 use think\helper\Arr;
 use think\helper\Str;
 

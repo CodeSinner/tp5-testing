@@ -11,7 +11,7 @@
 namespace codesinner\tp5testing;
 
 use think\Db;
-use think\facade\Session;
+use think\Session;
 
 trait ApplicationTrait
 {
