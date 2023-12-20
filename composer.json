@@ -1,6 +1,7 @@
 {
     "name": "codesinner/tp5-testing",
     "type": "library",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "lwp-coder",
