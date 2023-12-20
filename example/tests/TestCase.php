@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 namespace tests;
 
-class TestCase extends \think\testing\TestCase
+class TestCase extends \codesinner\tp5testing\TestCase
 {
     protected $baseUrl = 'http://localhost';
 }

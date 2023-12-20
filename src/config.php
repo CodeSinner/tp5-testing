@@ -9,4 +9,4 @@
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
 
-\think\Console::addDefaultCommands(['\\think\\testing\\command\\Test']);
+\think\Console::addDefaultCommands(['\\codesinner\\tp5testing\\command\\Test']);

@@ -1,7 +1,6 @@
 {
     "name": "codesinner/tp5-testing",
-    "license": "Apache-2.0",
-    "type": "think-testing",
+    "type": "library",
     "authors": [
         {
             "name": "lwp-coder",
@@ -16,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "think\\testing\\": "src"
+            "codesinner\\tp5testing\\": "src"
         },
         "files": [
             "src/config.php"

@@ -8,7 +8,7 @@
 // +----------------------------------------------------------------------
 // | Author: yunwuxin <448901948@qq.com>
 // +----------------------------------------------------------------------
-namespace think\testing;
+namespace codesinner\pt5testing;
 
 use think\Error;
 use think\Exception;
